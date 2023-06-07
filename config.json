@@ -1,0 +1,5 @@
+{
+    "username" : "yourFFXIVusername",
+    "passBase64": "your password, base64 encoded",
+    "pathToGame" : "C:\\Program Files (x86)\\SquareEnix\\FINAL FANTASY XIV - A Realm Reborn\\boot\\ffxivboot.exe"
+}
